@@ -11,10 +11,10 @@ El proyecto consiste en el análisis de datos climáticos históricos utilizando
 
 
 #Integrante
-- Jazmin Salas (trabajo individual)
+-Jazmin Salas (trabajo individual)-
 
 "Escenario elegido"
-Escenario A - "Análisis de datos climáticos"
+Escenario A: Análisis de datos climáticos
 
 "Dataset utilizado"
 Se utilizó un dataset de temperaturas globales históricas.
@@ -27,4 +27,18 @@ Python
 Git
 Github
 Jira
+
+"Estructura del repositorio"
+datos/= dataset utilizado
+scripts/=código Python del ánalisis
+resultados/=gráficos y resultados generados
+
+"Instrucciones de ejecución"
+1. Clonar el repositorio
+2. 2. Abrir Google colab
+3. Ejecutar el script scripts/analisis_clima.py
+4. Ver resultados en la cerpeta resultados
+
+"Conclusión"
+El análisis permitió calcular temperaturas promedio, máximas y mínimas, además de generar un gráfico de evolución climática.
 
